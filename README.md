@@ -40,9 +40,9 @@ I’m currently working on **cloud-based projects**, including **LMS** and **OTT
 
 ## 📫 **Contact Me**
 
-- **Email**: deruwan1000@gmail.com
-- **Phone**: +9477-913-8787
-- **Location**: Pannipitiya, Sri Lanka
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deruwan1000@gmail.com)  
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+94779138787)  
+[![Location](https://img.shields.io/badge/-Location-0077B5?style=flat&logo=google-maps&logoColor=white)](https://www.google.com/maps?q=Pannipitiya,+Sri+Lanka)  
 
 Feel free to connect with me and let's create something amazing! 💬
 
