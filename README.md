@@ -1,5 +1,7 @@
 # Hey, I'm J.D Deruwan Chalithanga 👋
 
+![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif).
+
 ## 💻 **Associate Software Engineer | DevOps Enthusiast**
 
 I'm a passionate **Software Engineer** with a focus on **web development** and **cloud technologies**. I specialize in building **scalable solutions** using **PHP**, **React**, **Node.js**, and **AWS**. Currently, I'm diving deeper into **DevOps** and optimizing cloud infrastructure. Let’s collaborate and innovate together! 🚀
