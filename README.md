@@ -6,20 +6,26 @@ I'm a passionate **Software Engineer** with a focus on **web development** and *
 
 ---
 
-## 🔧 **Skills & Technologies**
+## 🔧 **Technologies & Tools**
 
-- **Languages**: PHP, JavaScript, Java, React, Node.js, Laravel
-- **Databases**: MySQL, MongoDB, Firebase
-- **Cloud Platforms**: AWS, cPanel, Azure, Google Cloud
-- **DevOps**: AWS S3, EC2, Cloud Management
-- **Frontend**: HTML, CSS, React Native, Bootstrap
+![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
 ## 🎓 **Education**
+
 - **Bachelor of Engineering (BEng) in Software Engineering**  
   _IIC University of Technology (Expected Graduation: May 2025)_
-  
+
 - **Higher National Diploma (HND) in Software Engineering**  
   _Java Institute for Advanced Technology (2021 - 2023)_
 
@@ -50,5 +56,3 @@ Feel free to connect with me and let's create something amazing! 💬
 
 ## 🔗 **Links**  
 [My GitHub](#) | [LinkedIn](#) | [Personal Portfolio](#)
-![Animation Example](https://example.com/path-to-your-animation.gif)
-
