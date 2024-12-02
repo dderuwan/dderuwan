@@ -1,60 +1,38 @@
-# Hey, I'm J.D Deruwan Chalithanga 👋
+<h1 align="center">Hi 👋, I'm J.D Deruwan Chalithanga</h1>
+<h3 align="center">I'm a passionate Software Engineer with a focus on web development and cloud technologies. I specialize in building scalable solutions using PHP, React, Node.js, and AWS. Currently, I'm diving deeper into DevOps and optimizing cloud infrastructure. Let’s collaborate and innovate together! 🚀</h3>
 
-## 💻 **Associate Software Engineer | DevOps Enthusiast**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dderuwan&label=Profile%20views&color=0e75b6&style=flat" alt="dderuwan" /> </p>
 
-I'm a passionate **Software Engineer** with a focus on **web development** and **cloud technologies**. I specialize in building **scalable solutions** using **PHP**, **React**, **Node.js**, and **AWS**. Currently, I'm diving deeper into **DevOps** and optimizing cloud infrastructure. Let’s collaborate and innovate together! 🚀
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dderuwan" alt="dderuwan" /></a> </p>
 
----
+- 🌱 I’m currently learning **Node.js , Angular , AWS**
 
-## 🔧 **Technologies & Tools**
+- 👨‍💻 All of my projects are available at [https://shorturl.at/ZkDHT](https://shorturl.at/ZkDHT)
 
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- 📝 I regularly write articles on [https://shorturl.at/ZkDHT](https://shorturl.at/ZkDHT)
 
----
+- 💬 Ask me about **Boostrap, JS, PHP, Laravel**
 
-## 🎓 **Education**
+- 📫 How to reach me **deruwan1000@gmail.com**
 
-- **Bachelor of Engineering (BEng) in Software Engineering**  
-  _IIC University of Technology (Expected Graduation: May 2025)_
+- 📄 Know about my experiences [https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/](https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/)
 
-- **Higher National Diploma (HND) in Software Engineering**  
-  _Java Institute for Advanced Technology (2021 - 2023)_
+- ⚡ Fun fact **Always in a Happy Mood**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deruwan-chalithanga-a1948620a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deruwan-chalithanga-a1948620a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/deruwan-chalithanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deruwan-chalithanga" height="30" width="40" /></a>
+<a href="https://fb.com/deruwan.chalithange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deruwan.chalithange" height="30" width="40" /></a>
+<a href="https://instagram.com/deruwanchalithanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deruwanchalithanga" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@deruwanchalithanga-zs4hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@deruwanchalithanga-zs4hm" height="30" width="40" /></a>
+</p>
 
-## 🚀 **What I Do**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-I build **interactive, high-performance applications** focusing on both frontend & backend technologies.  
-I’m currently working on **cloud-based projects**, including **LMS** and **OTT platforms**, focusing on **scalability** and **user experience**.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dderuwan&show_icons=true&locale=en&layout=compact" alt="dderuwan" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dderuwan&show_icons=true&locale=en" alt="dderuwan" /></p>
 
-## 📫 **Contact Me**
-
-[![Email](https://img.shields.io/badge/-deruwan1000@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deruwan1000@gmail.com)  
-[![Phone](https://img.shields.io/badge/-+9477--913--8787-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+94779138787)  
-[![Location](https://img.shields.io/badge/-Pannipitiya,_Sri_Lanka-0077B5?style=flat&logo=google-maps&logoColor=white)](https://www.google.com/maps?q=Pannipitiya,+Sri+Lanka)  
-
-Feel free to connect with me and let's create something amazing! 💬
-
----
-
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-### 🌟 **Fun Fact**
-
-> "The best way to predict the future is to create it." – Abraham Lincoln ✨
-
----
-
-## 🔗 **Links**  
-[My GitHub](#) | [LinkedIn](https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/) | [Personal Portfolio](https://linktr.ee/deruwan?utm_source=linktree_admin_share)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dderuwan&" alt="dderuwan" /></p>
