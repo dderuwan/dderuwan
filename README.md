@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm J.D Deruwan Chalithanga</h1>
 <h3 align="center">I'm a passionate Software Engineer with a focus on web development and cloud technologies. I specialize in building scalable solutions using PHP, React, Node.js, and AWS. Currently, I'm diving deeper into DevOps and optimizing cloud infrastructure. Let’s collaborate and innovate together! 🚀</h3>
 
