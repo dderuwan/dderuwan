@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/](https://www.linkedin.com/in/deruwan-chalithanga-a1948620a/)
 
-- ⚡ Fun fact **Always in a Happy Mood**
+- ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
